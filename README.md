@@ -145,15 +145,5 @@ AI-Ecommerce-Sales-Customer-Analytics-MySQL/
 
 This project was developed as a **Data Analyst portfolio project** to demonstrate practical SQL skills, e-commerce analytics, data validation, and AI-assisted problem-solving using MySQL.
 
-## 👨‍💻 Author
 
-**Anand Kumar Mishra**
-
-Aspiring Data Analyst | SQL | Python | Excel | Power BI
-
-GitHub: [Add Your GitHub Profile Link](https://github.com/anand08-30)
-
----
-
-⭐ If you find this project useful, feel free to explore the repository and provide feedback.
 
